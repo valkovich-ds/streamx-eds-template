@@ -1,14 +1,9 @@
-global:
-  services:
-    edge:
-      opensearch-sink:
-        stateful: true
-        replicas: 2
-      web-server-sink:
-        stateful: true
-        replicas: 2
+---
+global: {}
 clusters:
-  eu-west-par-processing:
+  edge-us-east:
     enabled: true
-  eu-west-par-edge:
+    overlay: {}
+  processing-eu-central:
     enabled: true
+    overlay: {}
