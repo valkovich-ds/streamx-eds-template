@@ -1,4 +1,6 @@
 ---
+domains:
+- "eds-1-1.visortelle.com"
 global: {}
 clusters:
   edge-us-east:
