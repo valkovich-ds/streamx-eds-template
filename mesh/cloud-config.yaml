@@ -6,7 +6,6 @@ domains:
 - "eds-wtf-8.streamx.awsmdb.com"
 - "eds-wtf-22.streamx.awsmdb.com"
 - "eds-wtf-25.streamx.awsmdb.com"
-- "eds-wtf-26.streamx.awsmdb.com"
 global: {}
 clusters:
   edge-us-east:
