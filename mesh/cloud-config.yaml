@@ -1,12 +1,12 @@
 ---
 domains:
-- "eds-1-1.streamx.awsmdb.com"
 - "eds-1-2.streamx.awsmdb.com"
 - "eds-1-3.streamx.awsmdb.com"
 - "eds-1-4.streamx.awsmdb.com"
 - "eds-1-5.streamx.awsmdb.com"
 - "eds-1-6.streamx.awsmdb.com"
 - "eds-1-7.streamx.awsmdb.com"
+- "eds-1-8.streamx.awsmdb.com"
 global: {}
 clusters:
   edge-us-east:
