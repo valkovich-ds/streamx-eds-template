@@ -9,7 +9,6 @@ domains:
 - "eds-1-7.streamx.awsmdb.com"
 - "eds-1-8.streamx.awsmdb.com"
 - "eds-1-9.streamx.awsmdb.com"
-- "eds-1-10.streamx.awsmdb.com"
 global: {}
 clusters:
   edge-us-east:
