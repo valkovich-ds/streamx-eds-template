@@ -1,4 +1,6 @@
 ---
+domains:
+- "eds-1-10.streamx.awsmdb.com"
 global: {}
 clusters:
   edge-us-east:
