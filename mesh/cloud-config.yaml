@@ -2,7 +2,6 @@
 domains:
 - "eds-1-10.streamx.awsmdb.com"
 - "eds-1-14.streamx.awsmdb.com"
-- "test-project-2.streamx.awsmdb.com"
 - "test-project-3.streamx.awsmdb.com"
 - "test-project-4.streamx.awsmdb.com"
 - "test-project-5.streamx.awsmdb.com"
