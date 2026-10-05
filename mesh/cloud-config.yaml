@@ -3,7 +3,9 @@ global: {}
 clusters:
   edge-us-east:
     enabled: true
-    overlay: {}
+    overlay:
+      properties:
+        demo: "1"
   processing-eu-central:
     enabled: true
     overlay: {}
